@@ -1,6 +1,5 @@
 {
   "FolderOrderSettings": [
-<<<<<<< HEAD
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -24,53 +23,11 @@
     {"name":"oGrass","order":1,"path":"objects/oGrass/oGrass.yy",},
     {"name":"oDirt","order":2,"path":"objects/oDirt/oDirt.yy",},
     {"name":"oCamera","order":5,"path":"objects/oCamera/oCamera.yy",},
-=======
-    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
-    {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
-    {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
-    {"name":"Paths","order":4,"path":"folders/Paths.yy",},
-    {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
-    {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
-    {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"Objects","order":9,"path":"folders/Objects.yy",},
-    {"name":"Rooms","order":10,"path":"folders/Rooms.yy",},
-    {"name":"Sequences","order":11,"path":"folders/Sequences.yy",},
-    {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
-    {"name":"Notes","order":13,"path":"folders/Notes.yy",},
-    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
-    {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
-  ],
-  "ResourceOrderSettings": [
-    {"name":"sWand","order":7,"path":"sprites/sWand/sWand.yy",},
-    {"name":"oArrow","order":10,"path":"objects/oArrow/oArrow.yy",},
-    {"name":"sSword","order":10,"path":"sprites/sSword/sSword.yy",},
-    {"name":"oMagic","order":9,"path":"objects/oMagic/oMagic.yy",},
-    {"name":"sSlash","order":11,"path":"sprites/sSlash/sSlash.yy",},
-    {"name":"oStone","order":4,"path":"objects/oStone/oStone.yy",},
-    {"name":"oGrass","order":1,"path":"objects/oGrass/oGrass.yy",},
-    {"name":"oStone_Long","order":5,"path":"objects/oStone_Long/oStone_Long.yy",},
-    {"name":"ioWeapon","order":7,"path":"objects/ioWeapon/ioWeapon.yy",},
-    {"name":"ioAmmo","order":11,"path":"objects/ioAmmo/ioAmmo.yy",},
-    {"name":"oSlash","order":13,"path":"objects/oSlash/oSlash.yy",},
-    {"name":"oDirt","order":2,"path":"objects/oDirt/oDirt.yy",},
-    {"name":"Object15","order":14,"path":"objects/Object15/Object15.yy",},
-    {"name":"oBow","order":6,"path":"objects/oBow/oBow.yy",},
-    {"name":"oSword","order":12,"path":"objects/oSword/oSword.yy",},
-    {"name":"sStone_Long","order":5,"path":"sprites/sStone_Long/sStone_Long.yy",},
-    {"name":"sBow","order":6,"path":"sprites/sBow/sBow.yy",},
-    {"name":"sArrow","order":9,"path":"sprites/sArrow/sArrow.yy",},
-    {"name":"oWand","order":8,"path":"objects/oWand/oWand.yy",},
-    {"name":"sMagic","order":8,"path":"sprites/sMagic/sMagic.yy",},
->>>>>>> develop
     {"name":"sStone","order":4,"path":"sprites/sStone/sStone.yy",},
     {"name":"oBlock","order":3,"path":"objects/oBlock/oBlock.yy",},
     {"name":"sDirt","order":2,"path":"sprites/sDirt/sDirt.yy",},
     {"name":"sBlock","order":3,"path":"sprites/sBlock/sBlock.yy",},
-<<<<<<< HEAD
     {"name":"sEnemy","order":5,"path":"sprites/sEnemy/sEnemy.yy",},
-=======
->>>>>>> develop
     {"name":"sGrass","order":1,"path":"sprites/sGrass/sGrass.yy",},
   ],
 }

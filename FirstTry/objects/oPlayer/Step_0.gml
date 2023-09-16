@@ -1,4 +1,6 @@
 
+
+
 function handle_collision()
 {
 	// keybaord input
@@ -99,6 +101,7 @@ function on_hit_from_enemy()
 
 handle_collision();
 handle_on_enemy_collision();
+
 
 
 
