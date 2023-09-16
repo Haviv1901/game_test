@@ -5,6 +5,7 @@ vertical_speed = 0;
 grav = 0.3;
 walk_speed = 4;
 
+<<<<<<< HEAD
 // health
 time_since_last_hit = I_FRAMES_LENGTH; // start from i frames length to not flash on start game
 lives = 3;
@@ -16,5 +17,7 @@ lives = 3;
 
 
 
+=======
+>>>>>>> develop
 
 
